@@ -37,3 +37,4 @@ yarn-error.log*
 
 # Wallpaper cache
 wallpapers/
+.vercel

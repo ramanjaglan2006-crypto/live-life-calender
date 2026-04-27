@@ -4,7 +4,9 @@
 
 A minimalist desktop application that visualizes your entire life as a grid of dots. Each dot represents one day — white for days lived, red for today, dark for your future.
 
-![Life Calendar Grid](https://img.shields.io/badge/Dots-29%2C200-white?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-blue?style=flat-square) ![Tech](https://img.shields.io/badge/Built%20With-Electron%20%2B%20React-61DAFB?style=flat-square)
+### 🌐 [Live Demo →](https://life-calendar-bice-beta.vercel.app)
+
+![Life Calendar Grid](https://img.shields.io/badge/Dots-29%2C200-white?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-blue?style=flat-square) ![Tech](https://img.shields.io/badge/Built%20With-Electron%20%2B%20React-61DAFB?style=flat-square) [![Deploy](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://life-calendar-bice-beta.vercel.app)
 
 ---
 
